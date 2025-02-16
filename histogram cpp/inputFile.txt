@@ -1,0 +1,12 @@
+Our aim in writing the original edition of Numerical Recipes was to provide a
+book that combined general discussion, analytical mathematics, algorithmics,
+and actual working programs. The success of the first edition puts us now in a
+difficult, though hardly unenviable, position. We wanted, then and now, to write
+a book that is informal, fearlessly editorial, unesoteric, and above all useful.
+There is a danger that, if we are not careful, we might produce a second edition
+that is weighty, balanced, scholarly, and boring. Also used were a variety of
+C compilers, too numerous (and sometimes too buggy) for individual acknowledgment.
+It is a sobering fact that our standard test suite (exercising all the
+routines in this book) has uncovered compiler bugs in many of the compilers
+tried. When possible, we work with developers to see that such bugs get fixed; we
+encourage interested compiler developers to contact us about such arrangements.

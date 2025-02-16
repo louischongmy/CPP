@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1728192897 source:d:\code block\codeblocks\codes\histogram cpp\main.cpp
+	<iostream>
+	<cstring>
+	"functions.h"
+
+1728198231 d:\code block\codeblocks\codes\histogram cpp\functions.h
+
+1728214164 source:d:\code block\codeblocks\codes\histogram cpp\functions.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<iomanip>
+	"functions.h"
+

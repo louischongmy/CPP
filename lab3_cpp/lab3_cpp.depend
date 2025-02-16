@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1732459916 source:d:\code block\codeblocks\codes\lab3_cpp\main.cpp
+	<iostream>
+	"functions.h"
+
+1732542337 source:d:\code block\codeblocks\codes\lab3_cpp\functions.cpp
+	<iostream>
+	<iomanip>
+	<bits/stdc++.h>
+	<vector>
+	"functions.h"
+
+1732459841 d:\code block\codeblocks\codes\lab3_cpp\functions.h
+	<iostream>
+	<vector>
+
